@@ -6,7 +6,7 @@ function Header () {
     return(
     <div className="App-header">
         
-        <p>Bienvenue sur l'App du Gamer</p>
+        <p>Bienvenue sur l'App du Gamer </p>
         
     </div>
     );
