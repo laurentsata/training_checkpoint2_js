@@ -1,10 +1,9 @@
 import React from 'react';
-import '../style/Header.css';
 
 
-function Header () {
+function GameList () {
     return(
-    <div className="App-header">
+    <div className="gameList">
         
         <p>Bienvenue sur l'App du Gamer</p>
         
@@ -13,4 +12,4 @@ function Header () {
 }
 
 
-export default Header;
+export default GameList;

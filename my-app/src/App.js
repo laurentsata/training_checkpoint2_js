@@ -8,7 +8,7 @@ function App() {
         <style>
           @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
         </style>
-        <Header/>      
+        <Header name="play_game"/>      
         
       
       </div>
