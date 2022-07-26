@@ -35,7 +35,7 @@ const GameList = () => {
 return (
     <div className="GameList">
         <h2>Liste des jeux :</h2>
-        <button onClick={handleSwitch}>Game Filter</button>
+        <button onClick={handleSwitch}>Filtre Jeux supp 4.5</button>
 
         {games && games
         .filter(value => !filtered || value.rating > 4.5)
