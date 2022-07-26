@@ -1,15 +1,15 @@
 import React from 'react';
 
 
-function GameList () {
-    return(
-    <div className="gameList">
-        
-        <p>Bienvenue sur l'App du Gamer</p>
-        
-    </div>
+const GameList = ({ character, image, quote }) => {
+    return (
+      <div>
+        <p>{character}</p>
+        <img src={image} alt={character} />
+        <p>{quote}</p>
+      </div>
     );
-}
+  };
 
 
 export default GameList;

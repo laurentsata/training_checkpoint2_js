@@ -1,9 +1,9 @@
 .App-header{
     display: flex;
-    text-align: center;
+
   }
   
-  .App-header p{
+  .App-header P{
     display: flex;
     align-items: center;
     margin-top: 13px;
