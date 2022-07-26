@@ -1,4 +1,5 @@
 import React from 'react';
+import '../style/game.css'
 
 function Game ({name, image, date}) {
 
