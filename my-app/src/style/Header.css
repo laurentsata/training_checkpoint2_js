@@ -1,0 +1,19 @@
+.App-header{
+    display: flex;
+    text-align: center;
+  }
+  
+  .App-header p{
+    display: flex;
+    align-items: center;
+    margin-top: 13px;
+    padding-left: 15px;
+    font-size: 18px;
+    font-family: 'Press Start 2P', cursive;
+    align-items: center;
+    background-color: indigo;
+  }
+  
+  .App-header img{
+    width:5vh;
+  }
