@@ -34,7 +34,7 @@ const GameList = () => {
 
 return (
     <div className="GameList">
-        <h2>GameList</h2>
+        <h2>Liste des jeux :</h2>
         <button onClick={handleSwitch}>Game Filter</button>
 
         {games && games
