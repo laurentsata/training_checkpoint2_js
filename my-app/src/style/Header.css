@@ -1,6 +1,10 @@
 .App-header{
     display: flex;
-
+    
+    justify-content: center;
+    background-color: #d960f4;
+    width: 50%;
+    align-items: center;
   }
   
   .App-header P{
@@ -11,6 +15,7 @@
     font-size: 18px;
     font-family: 'Press Start 2P', cursive;
     align-items: center;
+    color: aliceblue;
     
   }
   
